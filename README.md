@@ -32,3 +32,6 @@ both cardiac MRI and out-of-distribution medical imaging datasets.
 Below is an example visualization of our VerSe framework:
 
 ![VerSe Framework](figure1.png)
+
+## Code Release
+The code associated with this research will be released publicly upon the acceptance of the paper.
