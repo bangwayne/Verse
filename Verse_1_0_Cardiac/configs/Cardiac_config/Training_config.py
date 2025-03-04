@@ -9,7 +9,7 @@ def add_training_config(cfg):
 
     cfg.DATALOADER.NUM_WORKERS = 3
     cfg.DATASETS.PATH = "/research/cbim/vast/bg654/Desktop/jupyproject/imask2former/datasets"
-    cfg.DATASETS.NAME = "ACDC"
+    # cfg.DATASETS.NAME = "ACDC"
     cfg.DATASETS.NAME_LIST = ["ACDC", "MM", "MnM2", "MYO_C0", "MYO_T2", "MYO_LGE", "LASCARQS"]
     # If you train in the combined dataset, you should focus on the NAMELIST
     cfg.DATASETS.ITER_MODEL = True
