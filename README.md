@@ -80,7 +80,7 @@ The training configurations are under `Verse_1_0_Cardiac/configs/Cardiac_config.
 
 To train Verse: `sh run_train.sh`
 
-The Pre-trained Verse weight can be download in https://drive.google.com/file/d/1rdRwfJ9JpJK9elbm02hGTLwgDSjJkjcN/view?usp=drive_link.
+The Pre-trained Verse weight can be downloaded in https://drive.google.com/file/d/1rdRwfJ9JpJK9elbm02hGTLwgDSjJkjcN/view?usp=drive_link.
 
 ### Evaluation
 The testing configurations are under `Verse_1_0_Cardiac/configs/Cardiac_config.Testing_config.py`.
