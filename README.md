@@ -1,4 +1,3 @@
-# Verse_1.0
 
 # VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation
 
