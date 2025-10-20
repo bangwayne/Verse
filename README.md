@@ -90,10 +90,12 @@ To evaluate Verse: `sh run_eval.sh`
 ## Citation
 
 ```bibtex
-@article{guo2024verse,
-  title={VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation},
+@inproceedings{guo2025verse,
+  title={Verse: Integrating multiple queries as prompts for versatile cardiac mri segmentation},
   author={Guo, Bangwei and Ye, Meng and Gao, Yunhe and Xin, Bingyu and Axel, Leon and Metaxas, Dimitris},
-  journal={arXiv preprint arXiv:2412.16381},
-  year={2024}
+  booktitle={International Conference on Information Processing in Medical Imaging},
+  pages={373--387},
+  year={2025},
+  organization={Springer}
 }
 ```
